@@ -14,7 +14,7 @@ Components list:
 1 - 3.7 Li-ion 18650 battery (I use 3000mAh)
 1 - holder for said battery (You have to make two holes in the side of the holder for wires) https://www.amazon.com/HiLetgo-10pcs-Battery-Holder-Storage/dp/B00LSG5BKO
 1 - Li-Ion 1S charge indicator (CHOOSE 1S) https://www.amazon.com/DAOKI-Capacity-Indicator-Sections-Electric/dp/B07YKGHVSV
-1 - ESP32
+1 - ESP32 WROOM-32 Development Board https://www.amazon.com/Teyleten-Robot-ESP-WROOM-32-Development-Microcontroller/dp/B09J94FTSF
 2-4 - M2 screws (to hold down esp. You need at least 2.)
 A bunch of wire to connect everything together
 
