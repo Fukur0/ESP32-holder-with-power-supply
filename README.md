@@ -1,6 +1,7 @@
 # ESP32-holder-with-power-supply
 A 3d design to hold the esp32 board and a power supply for it. Made by Fukuro#9999 (big thank you to LittleNyanCat#3801 for helping me figure out the circuit) for LucidVR open source project. 
 If you want to support me  :3 - https://ko-fi.com/fykuro
+You can find pics of it here as well ^
 
 Feel free to use/edit the design. You are not allowed to sell it without my permission. 
 Lucas, if you are reading this, you are an exeption for this rule. If you end up using it, it would be an honor, thank you for bringing together such a nice community and creating a big brain solution for vr gloves. :D
