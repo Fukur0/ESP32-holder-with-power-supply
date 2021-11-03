@@ -18,6 +18,10 @@ Components list:
 2-4 - M2 screws (to hold down esp. You need at least 2.)
 A bunch of wire to connect everything together
 
+
+P.S you have to unsolder the USB out from the powerbank module, and then solder the wires to the 5V and gnd on the board.
+message me on discord if you have questions
+
 WARNING 
 I haven't fully tested it yet. I've connected all the power related circutry, but not the wires from the glove itself. Imma do that soon, but for now just keep in mind that this is 
 still a prototype. 
