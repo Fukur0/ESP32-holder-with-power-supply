@@ -6,6 +6,7 @@ You can find pics of it here as well ^
 Feel free to use/edit the design. You are not allowed to sell it without my permission. 
 Lucas, if you are reading this, you are an exeption for this rule. If you end up using it, it would be an honor, thank you for bringing together such a nice community and creating a big brain solution for vr gloves. :D
 I linked some of the parts you need, you can use any buttons, but you might have to change dimentions. Most of them are easy to change if you go to parameters. I use Fusion360.
+
 Components list:
 1 - button (to check the battery charge)
 1 - switch (power on/off)
